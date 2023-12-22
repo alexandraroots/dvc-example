@@ -19,7 +19,7 @@ dvc add data/iris.csv
 
 ```
 pip install dvc-gdrive
-dvc remote add myremote gdrive://1Bus_ahqlRMG11ywS6SAbfY4w9zfmo-ib
+dvc remote add myremote gdrive://<grive-url>
 ```
 
 ```
